@@ -1,2 +1,2 @@
 # helloworld
-ryankenthelloworld.netlify.app
+https://ryankenthelloworld.netlify.app
